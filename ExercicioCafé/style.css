@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/café.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body h2{
+    text-align: center;
+}
+.menu-item {
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color:rgb(194, 98, 34);
+	border-radius: 5px;
+}
+
+.menu-item h3 {
+	margin-top: 0;
+}
+
+.menu-item p {
+	margin-bottom: 0;
+}
